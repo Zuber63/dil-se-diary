@@ -12,7 +12,7 @@ import DeshboardHome from './Components/DeshboardHome'
 import EditProfile from './Components/EditProfile'
 import CreatePost from './Components/CreatePost'
 import MyPosts from './Pages/Myposts'
-import ViewPost from './Pages/Viewpost'
+import ViewPost from './Pages/ViewPost'
 import EditPost from './Components/EditPost'
 import FullStory from './Components/FullStory'
 
